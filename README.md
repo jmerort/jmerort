@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmerort
-- 👀 I will be using this profile to post the projects I'm making as I learn new programming languages 
-- 🌱 I’m currently working through the book "Programming: Principles and Practice Using C++"
+- 👀 I will be using this profile mostly to post excercises from Textbooks I'm working through, maybe some projects down the line 
+- 🌱 I’m currently working through the Python Crash Course on my free time
 - 🗿 See you
 
 <!---
